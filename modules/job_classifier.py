@@ -15,12 +15,14 @@ def train_job_classifier(dataset_path):
     y = data["category"]
 
     # Split data into training and testing sets
+    
     X_train, X_test, y_train, y_test = train_test_split(
-        X,
-        y,test_size=0.40,
-        random_state=42,
-        stratify=y
-    )
+       X,
+       y,
+       test_size=0.25,
+       random_state=42
+     )
+
 
     # TF-IDF
     vectorizer = TfidfVectorizer(
