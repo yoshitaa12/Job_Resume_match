@@ -1,0 +1,21 @@
+text,category
+"Excellent product with amazing quality and fast delivery",E_COMMERCE
+"The product quality is very good and I am satisfied",E_COMMERCE
+"Terrible product and very poor quality",E_COMMERCE
+"The delivery was late and the product was damaged",E_COMMERCE
+"Good value for money and excellent customer service",E_COMMERCE
+"I am disappointed with this product",E_COMMERCE
+"Great product, I would definitely recommend it",E_COMMERCE
+"Bad experience, the product stopped working quickly",E_COMMERCE
+"Very useful product with excellent features",E_COMMERCE
+"The product is okay but nothing special",E_COMMERCE
+"Great company with a supportive work environment",SOCIAL_MEDIA
+"I really enjoyed working with this team",SOCIAL_MEDIA
+"The company provides excellent learning opportunities",SOCIAL_MEDIA
+"Poor management and a stressful work environment",SOCIAL_MEDIA
+"Very disappointing experience with this company",SOCIAL_MEDIA
+"Good workplace with helpful colleagues",SOCIAL_MEDIA
+"The interview process was smooth and professional",SOCIAL_MEDIA
+"Terrible recruitment experience and poor communication",SOCIAL_MEDIA
+"Excellent career growth opportunities",SOCIAL_MEDIA
+"The hiring process was average and could be improved",SOCIAL_MEDIA
