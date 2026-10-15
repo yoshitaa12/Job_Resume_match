@@ -1,0 +1,40 @@
+Python
+Java
+SQL
+Machine Learning
+Deep Learning
+Natural Language Processing
+NLP
+Artificial Intelligence
+AI
+Data Analysis
+Data Science
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+PyTorch
+spaCy
+NLTK
+Statistics
+Data Visualization
+HTML
+CSS
+JavaScript
+React
+Node.js
+MongoDB
+MySQL
+PostgreSQL
+Git
+GitHub
+Excel
+Power BI
+Tableau
+Cloud Computing
+AWS
+Azure
+Docker
+Flask
+Django
+Streamlit
