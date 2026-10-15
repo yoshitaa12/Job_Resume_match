@@ -1,4 +1,4 @@
-job_description,category
+text,category
 "Develop machine learning models using Python, pandas, NumPy, and scikit-learn","Data Science"
 "Build NLP applications using NLTK, spaCy, text processing, and language models","NLP"
 "Develop websites using HTML, CSS, JavaScript, React, and Node.js","Web Development"
