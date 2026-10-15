@@ -1,0 +1,9 @@
+title,company,description,skills
+AI/ML Engineer,TechNova,"Develop machine learning and NLP solutions using Python and TensorFlow","Python;Machine Learning;NLP;TensorFlow"
+Data Scientist,DataWorks,"Analyze data and build predictive models using Python SQL and machine learning","Python;SQL;Machine Learning;Pandas"
+Frontend Developer,WebCraft,"Build responsive web applications using React JavaScript HTML and CSS","React;JavaScript;HTML;CSS"
+Cloud Engineer,CloudCore,"Deploy and manage cloud applications using AWS Docker and Kubernetes","AWS;Docker;Kubernetes;Linux"
+Backend Developer,CodeBase,"Develop backend applications using Java Python SQL and Git","Java;Python;SQL;Git"
+Data Analyst,InsightLabs,"Analyze business data and create dashboards using Python SQL Power BI","Python;SQL;Power BI;Data Analysis"
+Cybersecurity Analyst,SecureNet,"Monitor security threats and perform vulnerability assessment and penetration testing","Cybersecurity;Network Security;Ethical Hacking"
+NLP Engineer,LanguageAI,"Build NLP systems using Python machine learning transformers and deep learning","Python;NLP;Machine Learning;Deep Learning"
