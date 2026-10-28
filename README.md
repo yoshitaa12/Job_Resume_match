@@ -114,7 +114,6 @@ streamlit run app.py
 The application will open in your browser, usually at `http://localhost:8501`.
 
 ## 🧠 How It Works
-
 1. The user uploads a resume in PDF format.
 2. The user provides the target job description.
 3. The system extracts and preprocesses the resume text.
@@ -127,7 +126,6 @@ The application will open in your browser, usually at `http://localhost:8501`.
 ## 📊 Match Score Calculation
 
 The overall score combines three components:
-
 - TF-IDF similarity: 20%
 - Semantic similarity: 40%
 - Skill match percentage: 40%
@@ -135,11 +133,9 @@ The overall score combines three components:
 **Formula:**
 
 `Overall Match = (0.20 × TF-IDF Score) + (0.40 × Semantic Score) + (0.40 × Skill Match)`
-
 The score is a project-specific similarity estimate. It is not a guarantee of recruitment success or interview selection.
 
 ## 🎯 Project Objectives
-
 - Apply NLP concepts to a practical recruitment-related problem.
 - Compare resume content with job requirements.
 - Identify relevant skills and potential skill gaps.
@@ -147,19 +143,9 @@ The score is a project-specific similarity estimate. It is not a guarantee of re
 - Build an interactive web application using Python and Streamlit.
 
 ## 🔮 Future Enhancements
-
 - Expand the job-classification dataset.
 - Improve skill extraction and normalization.
 - Support scanned resumes using OCR.
 - Add resume improvement recommendations.
 - Evaluate the matching system using larger, representative datasets.
 - Improve job recommendations using more comprehensive job data.
-
-## 👩‍💻 Author
-
-**Name:** Your Name  
-**Roll Number:** Your Roll Number
-
-## 📄 Disclaimer
-
-This project is intended for academic and educational purposes. Matching scores and job recommendations are estimates based on the implemented NLP techniques and available datasets. They should not be used as the sole basis for recruitment decisions.
